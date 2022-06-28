@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DevOps Engineer"
   location         : "London, United Kingdom"
-  email            : "seokhwan.jung@kcl.ac.uk"
+  email            : # "seokhwan.jung@kcl.ac.uk"
   links:
     - label: "seokhwan.jung@kcl.ac.uk"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/ejungsh96"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
