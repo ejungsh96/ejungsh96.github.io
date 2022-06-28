@@ -110,9 +110,9 @@ author:
   location         : "London, United Kingdom"
   email            : "seokhwan.jung@kcl.ac.uk"
   links:
-    - label: "Email"
+    - label: "seokhwan.jung@kcl.ac.uk"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "seokhwan.jung@kcl.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
