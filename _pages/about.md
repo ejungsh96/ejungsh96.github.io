@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /about_me/
 title: "About"
 excerpt: "About me - Who am I"
