@@ -252,7 +252,7 @@ jekyll-archives:
     - categories
     - tags
   layouts:
-    projects: grid
+    projects: collection
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
