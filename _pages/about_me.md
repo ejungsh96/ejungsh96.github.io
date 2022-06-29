@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 permalink: /about_me/
 title: "About"
 excerpt: "About me - Who am I"
