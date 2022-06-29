@@ -112,9 +112,12 @@ author:
     - label: "seokhwan.jung@kcl.ac.uk"
       icon: "fas fa-fw fa-envelope-square"
       url: "seokhwan.jung@kcl.ac.uk"
-    - label: "Website"
+    - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://ejungsh96.github.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/seokhwanjung/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ejungsh96"
@@ -125,6 +128,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/seokhwanjung/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ejungsh96"
