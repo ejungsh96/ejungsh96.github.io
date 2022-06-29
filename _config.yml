@@ -22,7 +22,7 @@ subtitle                 : "Just Do It!"
 name                     : "Seokhwan Jung"
 description              : "My voyage to become a DevOps Engineer"
 url                      : "https://ejungsh96.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Seokhwan's Blog-logos.jpeg"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Seokhwan Jung"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/LinkedIn - cropped.jpg"
   bio              : "DevOps Engineer"
   location         : "London, United Kingdom"
   links:
