@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: default
 permalink: /about_me/
 title: "About"
 excerpt: "About me - Who am I"
