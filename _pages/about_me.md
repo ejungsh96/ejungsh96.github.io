@@ -58,8 +58,8 @@ Looking for a job as a DevOps Engineer / Backend Engineer
 Building cloud-based, highly integrated CI/CD pipeline.
 
 ## Experiences
-  
-`Mar 2022 - Present`  
+
+##### <span style="color:#cbe0cb">Mar 2022 - Present</span>
 ### Themeparkers
 *Joy Cafters*
 
@@ -68,7 +68,7 @@ Building cloud-based, highly integrated CI/CD pipeline.
 * Used Jenkins with scripts to automate build and deployment that reduced human error and sped up production processes.
 * Increased the number of downloads by 50% as a consequence of building a CI/CD pipeline that sped up the delivery process.
 
-`Aug 2021 - Sep 2021`  
+##### <span style="color:#cbe0cb">Aug 2021 - Sep 2021</span>
 ### Research Assistant
 *King's College London*
 
@@ -89,7 +89,7 @@ Building cloud-based, highly integrated CI/CD pipeline.
 
 ## Education
 
-`2018-2021`  
+##### <span style="color:#cbe0cb">Sep 2018 - Jun 2021</span>
 **King's College London, United Kingdom**  
 *Upper Second Class Honour*
 
