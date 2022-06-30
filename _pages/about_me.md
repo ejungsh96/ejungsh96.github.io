@@ -85,7 +85,7 @@ Building a cloud-based, highly integrated CI/CD pipeline.
 ## Education
 
 **King's College London, United Kingdom**  
-*Upper Second Class Honour* <span style="color:green">*(Sep 2018 - Jun 2021)*</span>
+*Upper Second Class Honours* <span style="color:green">*(Sep 2018 - Jun 2021)*</span>
 
 * Activities and societies:
     - KCL Korean Society Band (2018 – 2021) – Played the guitar.
