@@ -13,13 +13,13 @@ sidebar:
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/DSCF6661.JPG
-    image_path: assets/images/DSCF6661 - comp.JPG
+    image_path: assets/images/DSCF6661 - comp.jpg
     alt: "placeholder image 1"
   - url: /assets/images/DSCF6669.JPG
-    image_path: assets/images/DSCF6669 - comp.JPG
+    image_path: assets/images/DSCF6669 - comp.jpg
     alt: "placeholder image 2"
   - url: /assets/images/DSCF7162.JPG
-    image_path: assets/images/DSCF7162 - comp.JPG
+    image_path: assets/images/DSCF7162 - comp.jpg
     alt: "placeholder image 3"
 ---
 
