@@ -205,7 +205,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/London
 
@@ -285,7 +285,7 @@ defaults:
   # _project
   - scope:
       path: ""
-      type: project
+      type: projects
     values:
       layout: single
       author_profile: false
