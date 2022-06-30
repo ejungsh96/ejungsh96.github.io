@@ -32,11 +32,11 @@ sidebar_main: true
 
 DevOps Engineer, Photographer, Runner.  
 <br>
-A diligent and highly motivated BSc Computer Science graduate with a concrete foundation in Data Structures, Optimisation, and Operating Systems. Have experience in developing API Servers with Django and AWS. Eager to absorb as much knowledge and skills as possible in the area of a fast and stable CI/CD oriented DevOps culture.
+A diligent and highly motivated BSc Computer Science graduate with a concrete foundation in **Data Structures**, **Optimisation**, and **Operating Systems**. Have experience in developing API Servers with **Django** and **AWS**. Eager to absorb as much knowledge and skills as possible in the area of a fast and stable **CI/CD** oriented **DevOps** culture.
 
 ## Currently
 
-Looking for a job as a DevOps Engineer / Backend Engineer.
+Looking for a job as a **DevOps Engineer** / **Backend Engineer**.
 
 ### Specialized in
 
@@ -57,15 +57,15 @@ Building a cloud-based, highly integrated CI/CD pipeline.
 
 ## Experiences
 
-### [Themeparkers](https://play.google.com/store/apps/details?id=com.kgeun.themeparkers) 
+### [**Themeparkers**](https://play.google.com/store/apps/details?id=com.kgeun.themeparkers) 
 *Joy Cafters* <span style="color:green">*(Mar 2022 - Present)*</span>
 
-* Designed and implemented the architecture of the backend of the mobile application. Developing Client API and Batch Server using Django REST Framework.
-* Experienced in designing and deploying AWS solutions using EC2, S3, EBS, ELB, and Auto Scaling groups. Worked at optimising volumes, and EC2 instances, and created multiple VPC instances.
-* Used Jenkins with scripts to automate build and deployment that reduced human error and sped up production processes.
-* Increased the number of downloads by 50% as a consequence of building a CI/CD pipeline that sped up the delivery process.
+* Designed and implemented the architecture of the backend of the mobile application. Developing Client API and Batch Server using **Django REST Framework**.
+* Experienced in designing and deploying AWS solutions using **EC2**, **S3**, **EBS**, **ELB**, and **Auto Scaling groups**. Worked at optimising volumes, and EC2 instances, and created multiple **VPC** instances.
+* Used **Jenkins** with scripts to automate build and deployment that **reduced human error** and **sped up production processes**.
+* **Increased** the number of downloads **by 50%** as a consequence of building a **CI/CD pipeline** that sped up the delivery process.
    
-### Research Assistant   
+### **Research Assistant**   
 *King's College London* <span style="color:green">*(Aug 2021 - Sep 2021)*</span>
 
 * The research was about defining the behaviours of abused 3rd party cookies over the websites and simulating them on Graph Transformation (a.k.a. Graph Rewriting) Tool - PORGY.
@@ -77,11 +77,11 @@ Building a cloud-based, highly integrated CI/CD pipeline.
   
 *Server Development - Django, AWS*  
 * Built a backend of an E-Commerce Website using Django.
-* Stored static files and images in an S3 bucket that reduced unnecessary load on the server. Used Django ORM for DB and connected it to RDS. Deployed the application with Nginx in EC2.
+* Stored static files and images in an S3 bucket that **reduced unnecessary load** on the server. Used **Django ORM** for DB and connected it to **RDS**. Deployed the application with **Nginx** in EC2.
 
 *CI/CD - Jenkins, Sonarqube, Docker*  
-* Used Jenkins to build a CI/CD pipeline which automatically fetches the code from GitHub, tests (Sonarqube), sends notifications (Slack) and delivers (Docker) that helps developers update the code flawlessly.
-* Kept the application portable and flexible by containerising it.
+* Used Jenkins to build a CI/CD pipeline which automatically fetches the code from GitHub, tests (Sonarqube), sends notifications (Slack) and delivers (Docker) that helps developers **update the code flawlessly**.
+* Kept the application **portable** and **flexible** by containerising it.
 
 ## Education
 
