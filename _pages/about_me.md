@@ -3,7 +3,7 @@ layout: archive
 permalink: /about_me/
 title: "About Me"
 excerpt: "About me - Who am I"
-layouts_gallery:
+projects_gallery:
   - url: /assets/images/DSCF6661.JPG
     image_path: /assets/images/DSCF6661.JPG
     alt: "project example 1"
@@ -20,7 +20,8 @@ sidebar_main: true
 ---
 
 About me will appear here.  
+
+{% include gallery id="projects_gallery" caption="Examples of included projects `project 1`, `project 2`, and `project 3`." %}  
   
 ![My Photo](/assets/images/DSCF7162.JPG){: width="80%" height="80%" .align-left}  
-
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `project 1`, `project 2`, and `project 3`." %}  
+  
