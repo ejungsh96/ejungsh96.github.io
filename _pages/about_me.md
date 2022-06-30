@@ -58,7 +58,7 @@ Building a cloud-based, highly integrated CI/CD pipeline.
 ## Experiences
 
 ### [**Themeparkers**](https://play.google.com/store/apps/details?id=com.kgeun.themeparkers) 
-*Joy Cafters* <span style="color:green">*(Mar 2022 - Present)*</span>
+*Joy Crafters* <span style="color:green">*(Mar 2022 - Present)*</span>
 
 * Designed and implemented the architecture of the backend of the mobile application. Developing Client API and Batch Server using **Django REST Framework**.
 * Experienced in designing and deploying AWS solutions using **EC2**, **S3**, **EBS**, **ELB**, and **Auto Scaling groups**. Worked at optimising volumes, and EC2 instances, and created multiple **VPC** instances.
@@ -73,7 +73,7 @@ Building a cloud-based, highly integrated CI/CD pipeline.
 * Created new rules to define the 3rd-Party Cookies behaviours and analysed the performance of opting out services, such as Privacy Badger by simulating the model.
 
 ## Side Projects
-**E-CommerceWeb Design Project**   
+**E-Commerce Web Design Project**   
 *Server Development - Django, AWS*  
 * Built a backend of an E-Commerce Website using Django.
 * Stored static files and images in an S3 bucket that **reduced unnecessary load** on the server. Used **Django ORM** for DB and connected it to **RDS**. Deployed the application with **Nginx** in EC2.
