@@ -13,15 +13,11 @@ projects_gallery:
   - url: /assets/images/DSCF7177.JPG
     image_path: /assets/images/DSCF7177.JPG
     alt: "project example 3"
-# toc: true
+toc: true
 toc_sticky: true
 author_profile: true
-sidebar_main: true
+# sidebar_main: true
 ---
-
-{% include toc %}
-
-About me will appear here.  
 
 **[My CV]** [You can download my updated CV here.](/assets/pdfs/Seokhwan_Jung_s_CV_H.pdf)
 {: .notice--success}
