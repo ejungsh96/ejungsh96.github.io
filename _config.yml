@@ -242,21 +242,21 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-portfolio-archive:
-  type: liquid
-  path: /projects/
+# portfolio-archive:
+#   type: liquid
+#   path: /projects/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
-    - projects
+    # - projects
     - categories
     - tags
   layouts:
-    projects: collection
+    # projects: collection
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
-    projects: /projects/
+    # projects: /projects/
     category: /categories/:name/
     tag: /tags/:name/
 
@@ -268,6 +268,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -283,3 +288,11 @@ defaults:
       share: true
       related: true
       show_date: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
