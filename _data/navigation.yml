@@ -5,7 +5,7 @@ main:
   - title: "Home"
     url: /
   - title: "About Me"
-    url: /about_me/
+    url: /about/
   - title: "Projects"
     url: /projects/
   # - title: "Blog"

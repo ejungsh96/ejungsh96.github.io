@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /about_me/
+permalink: /about/
 title: "About"
 excerpt: "About me - Who am I"
 toc: true
