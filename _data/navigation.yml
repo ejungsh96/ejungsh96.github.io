@@ -5,12 +5,12 @@ main:
   - title: "Home"
     url: /
   - title: "About Me"
-    url: /about/
+    url: /about_me/
   - title: "Projects"
     url: /projects/
   # - title: "Blog"
   #   url: /blog/
-  - title: "Category"
+  - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
