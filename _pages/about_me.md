@@ -59,18 +59,17 @@ Building cloud-based, highly integrated CI/CD pipeline.
 
 ## Experiences
 
-##### <span style="color:green">Mar 2022 - Present</span>
-### Themeparkers
-*Joy Cafters*
+### Themeparkers 
+*Joy Cafters* <span style="color:green">*(Mar 2022 - Present)*</span>
 
 * Designed and implemented the architecture of the backend of the mobile application. Developing Client API and Batch Server using Django REST Framework.
 * Experienced in designing and deploying AWS solutions using EC2, S3, EBS, ELB, and Auto Scaling groups. Worked at optimising volumes, and EC2 instances, and created multiple VPC instances.
 * Used Jenkins with scripts to automate build and deployment that reduced human error and sped up production processes.
 * Increased the number of downloads by 50% as a consequence of building a CI/CD pipeline that sped up the delivery process.
 
-##### <span style="color:green">Aug 2021 - Sep 2021</span>
-### Research Assistant
-*King's College London*
+##### 
+### Research Assistant 
+*King's College London* <span style="color:green">*(Aug 2021 - Sep 2021)*</span>
 
 * The research was about defining the behaviours of abused 3rd party cookies over the websites and simulating them on Graph Transformation (a.k.a. Graph Rewriting) Tool - PORGY.
 * Studied the background - OSI Model, TCP/IP Model, HTTP, Cookies, Graph Morphism; and utilised them to build the model - "A Graph-Based Model of the Cookie-Management Process in Web-Browsers".
@@ -89,9 +88,9 @@ Building cloud-based, highly integrated CI/CD pipeline.
 
 ## Education
 
-##### <span style="color:green">Sep 2018 - Jun 2021</span>
+##### 
 **King's College London, United Kingdom**  
-*Upper Second Class Honour*
+*Upper Second Class Honour* <span style="color:green">*(Sep 2018 - Jun 2021)*</span>
 
 * Activities and societies: /
     - KCL Korean Society Band (2018 – 2021) – Played the guitar.
