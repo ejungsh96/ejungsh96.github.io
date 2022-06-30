@@ -24,7 +24,7 @@ About me will appear here.
 **[My CV]** [You can download my updated CV here.](/assets/pdfs/Seokhwan_Jung_s_CV_H.pdf)
 {: .notice--success}
 
-{% include gallery id="projects_gallery" caption="Sample pictures that I took `picture 1`, `picture 2`, and `picture 3`." %}  
+{% include gallery id="projects_gallery" caption="Sample pictures - `picture 1`, `picture 2`, and `picture 3`." %}  
   
 <!-- ![My Photo](/assets/images/DSCF7162.JPG){: width="80%" height="80%" .align-left}   -->
 
@@ -42,16 +42,16 @@ Looking for a job as a DevOps Engineer / Backend Engineer
 
 ### Specialized in
 
-    - Python
-    - Django
-    - Java
-    - Linux
-    - AWS
-    - Ansible
-    - Jenkins
-    - Docker
-    - Kubernetes
-    - Terraform
+>- Python
+>- Django
+>- Java
+>- Linux
+>- AWS
+>- Ansible
+>- Jenkins
+>- Docker
+>- Kubernetes
+>- Terraform
 
 ### Research interests
 
