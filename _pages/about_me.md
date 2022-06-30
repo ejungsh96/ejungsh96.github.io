@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /about_me/
 title: "About Me"
 excerpt: "About me - Who am I"
@@ -16,7 +16,7 @@ projects_gallery:
 toc: true
 toc_sticky: true
 author_profile: true
-# sidebar_main: true
+sidebar_main: true
 ---
 
 **[My CV]** [You can download my updated CV here.](/assets/pdfs/Seokhwan_Jung_s_CV_H.pdf)
