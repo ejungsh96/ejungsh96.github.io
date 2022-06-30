@@ -53,7 +53,7 @@ Looking for a job as a DevOps Engineer / Backend Engineer.
 
 ### Research interests
 
-Building cloud-based, highly integrated CI/CD pipeline.
+Building a cloud-based, highly integrated CI/CD pipeline.
 
 ## Experiences
 
