@@ -1,0 +1,10 @@
+---
+title: Projects
+layout: collection
+permalink: /projects/
+collection: project
+entries_layout: grid
+classes: wide
+---
+
+My portfolio will appear here.  
