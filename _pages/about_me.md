@@ -38,7 +38,7 @@ A diligent and highly motivated BSc Computer Science graduate with a concrete fo
 
 Looking for a job as a **DevOps Engineer** / **Backend Engineer**.
 
-### Specialized in
+### Specialised in
 
 >- Python
 >- Django
