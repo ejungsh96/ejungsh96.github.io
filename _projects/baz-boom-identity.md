@@ -2,24 +2,24 @@
 title: "Baz Boom Identity"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/DSCF6661.JPG
+  teaser: assets/images/DSCF6661 - comp.JPG
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/Seokhwan's Blog-logos.jpeg
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/DSCF6661.JPG
+    image_path: assets/images/DSCF6661 - comp.JPG
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/DSCF6669.JPG
+    image_path: assets/images/DSCF6669 - comp.JPG
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/DSCF7162.JPG
+    image_path: assets/images/DSCF7162 - comp.JPG
     alt: "placeholder image 3"
 ---
 
