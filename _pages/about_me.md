@@ -69,12 +69,11 @@ Building a cloud-based, highly integrated CI/CD pipeline.
 *King's College London* <span style="color:green">*(Aug 2021 - Sep 2021)*</span>
 
 * The research was about defining the behaviours of abused 3rd party cookies over the websites and simulating them on Graph Transformation (a.k.a. Graph Rewriting) Tool - PORGY.
-* Studied the background - OSI Model, TCP/IP Model, HTTP, Cookies, Graph Morphism; and utilised them to build the model - "A Graph-Based Model of the Cookie-Management Process in Web-Browsers".
+* Studied the background - **OSI Model**, **TCP/IP Model**, **HTTP**, **Cookies**, **Graph Morphism**; and utilised them to build the model - "A Graph-Based Model of the Cookie-Management Process in Web-Browsers".
 * Created new rules to define the 3rd-Party Cookies behaviours and analysed the performance of opting out services, such as Privacy Badger by simulating the model.
 
 ## Side Projects
-**E-CommerceWeb Design Project**
-  
+**E-CommerceWeb Design Project**   
 *Server Development - Django, AWS*  
 * Built a backend of an E-Commerce Website using Django.
 * Stored static files and images in an S3 bucket that **reduced unnecessary load** on the server. Used **Django ORM** for DB and connected it to **RDS**. Deployed the application with **Nginx** in EC2.
