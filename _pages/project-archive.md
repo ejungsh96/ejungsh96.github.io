@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-My portfolio will appear here.  
+My projects will appear here.  
