@@ -9,5 +9,6 @@ author_profile: true
 sidebar_main: true
 ---
 
-About me will appear here.
-![My Photo](/assets/images/DSCF7162.JPG){: width="80%" height="80%"}
+About me will appear here.  
+  
+![My Photo](/assets/images/DSCF7162.JPG){: width="80%" height="80%" .align-left}  
