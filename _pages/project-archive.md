@@ -10,3 +10,6 @@ classes: wide
 ---
 
 My projects will appear here.  
+
+**[Attention!]** [Projects page is to be updated.]
+{: .notice--danger}

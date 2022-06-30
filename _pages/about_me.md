@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: posts
 permalink: /about_me/
 title: "About Me"
 excerpt: "About me - Who am I"
@@ -24,7 +24,7 @@ About me will appear here.
 **[My CV]** [You can download my updated CV here.](/assets/pdfs/Seokhwan_Jung_s_CV_H.pdf)
 {: .notice--success}
 
-{% include gallery id="projects_gallery" caption="Examples of included projects `project 1`, `project 2`, and `project 3`." %}  
+{% include gallery id="projects_gallery" caption="Sample pictures that I took `picture 1`, `picture 2`, and `picture 3`." %}  
   
 <!-- ![My Photo](/assets/images/DSCF7162.JPG){: width="80%" height="80%" .align-left}   -->
 
@@ -32,64 +32,78 @@ About me will appear here.
 
 # Seokhwan Jung
 
-DevOps Engineer, Photographer, Runner.
+DevOps Engineer, Photographer, Runner.  
+<br>
+A diligent and highly motivated BSc Computer Science graduate with a concrete foundation in Data Structures, Optimisation, and Operating Systems. Have experience in developing API Servers with Django and AWS. Eager to absorb as much knowledge and skills as possible in the area of a fast and stable CI/CD oriented DevOps culture.
 
 ## Currently
 
-Standing on the shoulders of giants
+Looking for a job as a DevOps Engineer / Backend Engineer
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+    - Python
+    - Django
+    - Java
+    - Linux
+    - AWS
+    - Ansible
+    - Jenkins
+    - Docker
+    - Kubernetes
+    - Terraform
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Building cloud-based, highly integrated CI/CD pipeline.
+
+## Experiences
+  
+`Mar 2022 - Present`  
+### Themeparkers
+*Joy Cafters*
+
+* Designed and implemented the architecture of the backend of the mobile application. Developing Client API and Batch Server using Django REST Framework.
+* Experienced in designing and deploying AWS solutions using EC2, S3, EBS, ELB, and Auto Scaling groups. Worked at optimising volumes, and EC2 instances, and created multiple VPC instances.
+* Used Jenkins with scripts to automate build and deployment that reduced human error and sped up production processes.
+* Increased the number of downloads by 50% as a consequence of building a CI/CD pipeline that sped up the delivery process.
+
+`Aug 2021 - Sep 2021`  
+### Research Assistant
+*King's College London*
+
+* The research was about defining the behaviours of abused 3rd party cookies over the websites and simulating them on Graph Transformation (a.k.a. Graph Rewriting) Tool - PORGY.
+* Studied the background - OSI Model, TCP/IP Model, HTTP, Cookies, Graph Morphism; and utilised them to build the model - "A Graph-Based Model of the Cookie-Management Process in Web-Browsers".
+* Created new rules to define the 3rd-Party Cookies behaviours and analysed the performance of opting out services, such as Privacy Badger by simulating the model.
+
+## Side Projects
+**E-CommerceWeb Design Project**
+  
+*Server Development - Django, AWS*  
+* Built a backend of an E-Commerce Website using Django.
+* Stored static files and images in an S3 bucket that reduced unnecessary load on the server. Used Django ORM for DB and connected it to RDS. Deployed the application with Nginx in EC2.
+
+*CI/CD - Jenkins, Sonarqube, Docker*  
+* Used Jenkins to build a CI/CD pipeline which automatically fetches the code from GitHub, tests (Sonarqube), sends notifications (Slack) and delivers (Docker) that helps developers update the code flawlessly.
+* Kept the application portable and flexible by containerising it.
 
 ## Education
 
-`1654-1660`
-**The King's School, Grantham.**
+`2018-2021`  
+**King's College London, United Kingdom**  
+*Upper Second Class Honour*
 
-`June 1661 - now`
-**Trinity College, Cambridge**
-
-- Sizar
-
-`1667 - death`
-**Trinity College, Cambridge**
-
-- Fellow
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-## Occupation
-
-`1600`
-**Royal Mint**, London
-
-- Warden
-- Minted coins
-
-`1600`
-**Lucasian professor of Mathematics**, Cambridge University
+* Activities and societies: /
+    - KCL Korean Society Band (2018 – 2021) – Played the guitar.
+    - KCL Kendo Club (2019 – 2020) – Practiced once a week.
+* Built a concrete foundation in Computer Science:
+    - 4CCS1CS1 Computer Systems - 86
+    - 4CCS1DST Data Structures - 76
+    - 5CCS2OSC Operating Systems and Concurrency - 78
+* Managed group projects to be done successfully:
+    - 5CCS2RGP Robotics Group Project - 79
+    - 6CCS3HCI Human-Computer Interaction Course Work (50%) - 81
+* Final Year Individual Project - "A Graph-Based Model of the Cookie-Management Process in Web-Browsers"
+    - Network - OSI Model, TCP/IP Model
+    - Web - HTTP, Cookies
+    - Graph Transformation - Graph Morphism
