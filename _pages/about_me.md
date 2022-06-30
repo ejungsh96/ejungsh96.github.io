@@ -21,7 +21,7 @@ sidebar_main: true
 
 About me will appear here.  
 
-**[My CV]**[You can download my updated CV here.](/assets/pdfs/Seokhwan_Jung_s_CV_H.pdf)
+**[My CV]** [You can download my updated CV here.](/assets/pdfs/Seokhwan_Jung_s_CV_H.pdf)
 {: .notice--success}
 
 {% include gallery id="projects_gallery" caption="Examples of included projects `project 1`, `project 2`, and `project 3`." %}  
