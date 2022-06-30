@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 permalink: /about_me/
 title: "About Me"
 excerpt: "About me - Who am I"
@@ -38,7 +38,7 @@ A diligent and highly motivated BSc Computer Science graduate with a concrete fo
 
 ## Currently
 
-Looking for a job as a DevOps Engineer / Backend Engineer
+Looking for a job as a DevOps Engineer / Backend Engineer.
 
 ### Specialized in
 
@@ -59,7 +59,7 @@ Building cloud-based, highly integrated CI/CD pipeline.
 
 ## Experiences
 
-##### <span style="color:#cbe0cb">Mar 2022 - Present</span>
+##### <span style="color:green">Mar 2022 - Present</span>
 ### Themeparkers
 *Joy Cafters*
 
@@ -68,7 +68,7 @@ Building cloud-based, highly integrated CI/CD pipeline.
 * Used Jenkins with scripts to automate build and deployment that reduced human error and sped up production processes.
 * Increased the number of downloads by 50% as a consequence of building a CI/CD pipeline that sped up the delivery process.
 
-##### <span style="color:#cbe0cb">Aug 2021 - Sep 2021</span>
+##### <span style="color:green">Aug 2021 - Sep 2021</span>
 ### Research Assistant
 *King's College London*
 
@@ -89,7 +89,7 @@ Building cloud-based, highly integrated CI/CD pipeline.
 
 ## Education
 
-##### <span style="color:#cbe0cb">Sep 2018 - Jun 2021</span>
+##### <span style="color:green">Sep 2018 - Jun 2021</span>
 **King's College London, United Kingdom**  
 *Upper Second Class Honour*
 
