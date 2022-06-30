@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: cv
 permalink: /about_me/
 title: "About Me"
 excerpt: "About me - Who am I"
@@ -26,7 +26,7 @@ About me will appear here.
 
 {% include gallery id="projects_gallery" caption="Examples of included projects `project 1`, `project 2`, and `project 3`." %}  
   
-![My Photo](/assets/images/DSCF7162.JPG){: width="80%" height="80%" .align-left}  
+<!-- ![My Photo](/assets/images/DSCF7162.JPG){: width="80%" height="80%" .align-left}   -->
 
 <br>
 
