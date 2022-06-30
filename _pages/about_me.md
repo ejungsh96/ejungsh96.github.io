@@ -22,7 +22,7 @@ sidebar_main: true
 **[My CV]** [You can download my updated CV here.](/assets/pdfs/Seokhwan_Jung_s_CV_H.pdf)
 {: .notice--success}
 
-{% include gallery id="projects_gallery" caption="Sample pictures - `picture 1`, `picture 2`, and `picture 3`." %}  
+{% include gallery id="projects_gallery" caption="I like taking photos - `My guitar`, `The cloud`, and `A random phone box`." %}  
   
 <!-- ![My Photo](/assets/images/DSCF7162.JPG){: width="80%" height="80%" .align-left}   -->
 
