@@ -3,7 +3,7 @@ title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/DSCF7162.JPG
-  teaser: assets/images/DSCF7162 - comp.JPG
+  teaser: /assets/images/DSCF7162 - comp.JPG
 sidebar:
   - title: "Role"
     image: /assets/images/Seokhwan's Blog-logos.jpeg
