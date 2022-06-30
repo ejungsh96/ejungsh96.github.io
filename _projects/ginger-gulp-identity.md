@@ -3,7 +3,7 @@ title: "Ginger Gulp Identity"
 excerpt: "Ginger Gulp design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/DSCF7177.JPG
-  teaser: /assets/images/DSCF7177 - comp.JPG
+  teaser: /assets/images/DSCF7177 - comp.jpg
 sidebar:
   - title: "Role"
     image: /assets/images/Seokhwan's Blog-logos.jpeg

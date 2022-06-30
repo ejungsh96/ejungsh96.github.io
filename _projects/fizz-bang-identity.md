@@ -3,7 +3,7 @@ title: "Fizz Bang Identity"
 excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/DSCF6669.JPG
-  teaser: /assets/images/DSCF6669 - comp.JPG
+  teaser: /assets/images/DSCF6669 - comp.jpg
 sidebar:
   - title: "Role"
     image: /assets/images/Seokhwan's Blog-logos.jpeg
