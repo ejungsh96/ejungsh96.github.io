@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: archive
 permalink: /about_me/
 title: "About Me"
 excerpt: "About me - Who am I"
