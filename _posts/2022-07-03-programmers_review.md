@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "LeetCode 57"
+title:  "Programmers Problems"
 categories: Coding
 tags:
   - python
