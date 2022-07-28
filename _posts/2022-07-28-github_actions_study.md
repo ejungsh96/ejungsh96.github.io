@@ -21,7 +21,7 @@ GitHub Actions is a continuous integratoin and continuous delivery (CI/CD) platf
 * **Workflows**: A configurable automated process that will run one or more jobs.
   * YAML file.
   * Can be triggered by an event in the repository, or manually, or at a defined schedule.
-  * Defined in the ==.github/workflows== directory in a repository.
+  * Defined in the `.github/workflows` directory in a repository.
 
    
 * **Events**: A specific activity that triggers a workflow run.
