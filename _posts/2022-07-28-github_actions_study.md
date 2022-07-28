@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "What is GitHub Actions?"
-categories: CI/CD
+categories: CI_CD
 tags:
   - ci/cd
   - devops
