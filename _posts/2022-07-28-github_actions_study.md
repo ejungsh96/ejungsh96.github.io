@@ -18,23 +18,23 @@ GitHub Actions is a continuous integratoin and continuous delivery (CI/CD) platf
 
 ### The components of GitHub Actions
 
-* **Workflows**: A configurable automated process that will run one or more jobs.
+* **Workflows**: A configurable *automated process* that will run one or more jobs.
   * YAML file.
   * Can be triggered by an event in the repository, or manually, or at a defined schedule.
   * Defined in the `.github/workflows` directory in a repository.
 
    
-* **Events**: A specific activity that triggers a workflow run.
+* **Events**: A specific activity that *triggers a workflow* run.
   * Examples:
-    * A pull request is created
-    * An issue is open
-    * A commit is pushed
-    * Run on a schedule
-    * Posting to a REST API
+    * A *pull request* is created
+    * An *issue* is open
+    * A *commit* is pushed
+    * Run on a *schedule*
+    * Posting to a *REST API*
     * Manually
 
   
-* **Jobs**: A set of steps that execute on the same runner.
+* **Jobs**: A set of *steps* that execute on the same runner.
   * Each step is either a shell script, or an action that will be run.
   * Steps are executed in order and are dependent on each other.
   * Steps share data from one to another.
@@ -45,7 +45,7 @@ GitHub Actions is a continuous integratoin and continuous delivery (CI/CD) platf
     * If a job takes a dependency on another job, it will wait for the dependent job to complete before it can run.
 
   
-* **Actions**: A custom application for the GitHub Actions platform that performs a complex but frequently repeated task.
+* **Actions**: A *custom application* for the GitHub Actions platform that performs a complex but frequently repeated task.
   * Help reduce the repetitive code in the workflow files.
   * Example:
     * Pull a git repository,
