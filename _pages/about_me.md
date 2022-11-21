@@ -42,11 +42,13 @@ Looking for a job as a **DevOps Engineer** / **Backend Engineer**.
 
 >- Python
 >- Django
->- Java
+>- JavaScript
+>- React
 >- Linux
+>- Bash Scripting
 >- AWS
->- Ansible
 >- Jenkins
+>- Git
 >- Docker
 >- Kubernetes
 >- Terraform
