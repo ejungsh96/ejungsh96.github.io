@@ -69,9 +69,9 @@ Building a cloud-based, highly integrated CI/CD pipeline.
 ### [**Themeparkers**](https://play.google.com/store/apps/details?id=com.kgeun.themeparkers) 
 *Joy Crafters* <span style="color:green">*(Mar 2022 - Present)*</span>
 
-• Designed and implemented the architecture of the Back End of a mobile application. Developed Client API and Batch Server using **Django REST Framework**.
-• Experienced in designing and deploying an AWS solution including **EC2**, **S3**, **EBS**, **ELB**, and **Auto Scaling Groups**. Worked at optimising volumes, and EC2 instances, and separated private and public servers with **VPC**.
-• Used **Jenkins** with scripts to automate the build and the deployment process, which **reduced human error** and **sped up production processes**. **Increased** the number of downloads **by 50%** thanks to CI/CD.
+* Designed and implemented the architecture of the Back End of a mobile application. Developed Client API and Batch Server using **Django REST Framework**.
+* Experienced in designing and deploying an AWS solution including **EC2**, **S3**, **EBS**, **ELB**, and **Auto Scaling Groups**. Worked at optimising volumes, and EC2 instances, and separated private and public servers with **VPC**.
+* Used **Jenkins** with scripts to automate the build and the deployment process, which **reduced human error** and **sped up production processes**. **Increased** the number of downloads **by 50%** thanks to CI/CD.
    
 ### **Research Assistant**   
 *King's College London* <span style="color:green">*(Aug 2021 - Sep 2021)*</span>
@@ -82,9 +82,9 @@ Building a cloud-based, highly integrated CI/CD pipeline.
 
 ## Side Projects
 **E-Commerce Web Design Project**   
-• Improved the Readability and followed Object-Oriented-Programming principles by using **Django ORM**.
-• Built a CI/CD pipeline with **Jenkins**, which automatically fetches the code from GitHub, tests (Sonarqube), sends notifications (Slack) and delivers (Docker) that helps developers **update the code flawlessly**.
-• Maximised the Flexibility of deployment by containerising the app and dependencies with **Docker** and **Docker-Compose**.
+* Improved the Readability and followed Object-Oriented-Programming principles by using **Django ORM**.
+* Built a CI/CD pipeline with **Jenkins**, which automatically fetches the code from GitHub, tests (Sonarqube), sends notifications (Slack) and delivers (Docker) that helps developers **update the code flawlessly**.
+* Maximised the Flexibility of deployment by containerising the app and dependencies with **Docker** and **Docker-Compose**.
 
 ## Education
 
