@@ -109,7 +109,7 @@ author:
   bio              : "DevOps Engineer"
   location         : "London, United Kingdom"
   links:
-    - label: "work.seokhwan.jung@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:work.seokhwan.jung@gmail.com"
     - label: "Blog"
