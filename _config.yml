@@ -109,9 +109,9 @@ author:
   bio              : "DevOps Engineer"
   location         : "London, United Kingdom"
   links:
-    - label: "seokhwan.jung@kcl.ac.uk"
+    - label: "work.seokhwan.jung@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "seokhwan.jung@kcl.ac.uk"
+      url: "mailto:work.seokhwan.jung@gmail.com"
     - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://ejungsh96.github.io/"
