@@ -19,7 +19,7 @@ author_profile: true
 sidebar_main: true
 ---
 
-**[My CV]** [You can download my updated CV here.](/assets/pdfs/Seokhwan_Jung_s_CV_H.pdf)
+**[My CV]** [You can download my updated CV here.](/assets/pdfs/Seokhwan_Jung_s_CV.pdf)
 {: .notice--success}
 
 {% include gallery id="projects_gallery" caption="I like taking photos - `My guitar`, `The cloud`, and `A random phone box`." %}  
@@ -32,7 +32,7 @@ sidebar_main: true
 
 DevOps Engineer, Photographer, Runner.  
 <br>
-A diligent and highly motivated BSc Computer Science graduate with a concrete foundation in **Data Structures**, **Optimisation**, and **Operating Systems**. Have experience in developing API Servers with **Django** and **AWS**. Eager to absorb as much knowledge and skills as possible in the area of a fast and stable **CI/CD** oriented **DevOps** culture.
+A diligent and highly motivated BSc Computer Science graduate with a concrete foundation in Data Structures and Operating Systems. Have **1+ years of experience** developing **API Servers** with **Django**, and **Python scripts** for **Business Logic**, and **Front-End Applications** with **React**, **GraphQL**, and **DynamoDB**. **A DevOps enthusiast** who is eager to further my knowledge in Software Development and utilise my skills to solve real-world problems.
 
 ## Currently
 
@@ -57,13 +57,19 @@ Building a cloud-based, highly integrated CI/CD pipeline.
 
 ## Experiences
 
+### [**Sefy**](https://apps.apple.com/gb/app/sefy/id1596826300)
+*Sefy LTD* <span style="color:green">*(Aug 2022 - Present)*</span>
+
+* Increased the efficiency of data aggregation **by 1000%** by automating it with **Python Scripts** on AWS EC2 Crontab.
+* Improved the inefficiency of Many-to-many relationships in **DynamoDB** by tuning the structure and customising the **GraphQL** resolvers.
+* Accomplished Separation of Concerns by not only managing the global states with **React Context** but also using **Custom Hook**s when developing an Admin Dashboard with React, which boosted the performance of collaboration as well as [**React Web App**](https://undertone.sefy.io/).
+
 ### [**Themeparkers**](https://play.google.com/store/apps/details?id=com.kgeun.themeparkers) 
 *Joy Crafters* <span style="color:green">*(Mar 2022 - Present)*</span>
 
-* Designed and implemented the architecture of the backend of the mobile application. Developing Client API and Batch Server using **Django REST Framework**.
-* Experienced in designing and deploying AWS solutions using **EC2**, **S3**, **EBS**, **ELB**, and **Auto Scaling groups**. Worked at optimising volumes, and EC2 instances, and created multiple **VPC** instances.
-* Used **Jenkins** with scripts to automate build and deployment that **reduced human error** and **sped up production processes**.
-* **Increased** the number of downloads **by 50%** as a consequence of building a **CI/CD pipeline** that sped up the delivery process.
+• Designed and implemented the architecture of the Back End of a mobile application. Developed Client API and Batch Server using **Django REST Framework**.
+• Experienced in designing and deploying an AWS solution including **EC2**, **S3**, **EBS**, **ELB**, and **Auto Scaling Groups**. Worked at optimising volumes, and EC2 instances, and separated private and public servers with **VPC**.
+• Used **Jenkins** with scripts to automate the build and the deployment process, which **reduced human error** and **sped up production processes**. **Increased** the number of downloads **by 50%** thanks to CI/CD.
    
 ### **Research Assistant**   
 *King's College London* <span style="color:green">*(Aug 2021 - Sep 2021)*</span>
@@ -74,13 +80,9 @@ Building a cloud-based, highly integrated CI/CD pipeline.
 
 ## Side Projects
 **E-Commerce Web Design Project**   
-*Server Development - Django, AWS*  
-* Built a backend of an E-Commerce Website using Django.
-* Stored static files and images in an S3 bucket that **reduced unnecessary load** on the server. Used **Django ORM** for DB and connected it to **RDS**. Deployed the application with **Nginx** in EC2.
-
-*CI/CD - Jenkins, Sonarqube, Docker*  
-* Used Jenkins to build a CI/CD pipeline which automatically fetches the code from GitHub, tests (Sonarqube), sends notifications (Slack) and delivers (Docker) that helps developers **update the code flawlessly**.
-* Kept the application **portable** and **flexible** by containerising it.
+• Improved the Readability and followed Object-Oriented-Programming principles by using **Django ORM**.
+• Built a CI/CD pipeline with **Jenkins**, which automatically fetches the code from GitHub, tests (Sonarqube), sends notifications (Slack) and delivers (Docker) that helps developers **update the code flawlessly**.
+• Maximised the Flexibility of deployment by containerising the app and dependencies with **Docker** and **Docker-Compose**.
 
 ## Education
 
