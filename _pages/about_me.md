@@ -59,14 +59,14 @@ Building a cloud-based, highly integrated CI/CD pipeline.
 
 ## Experiences
 
-### [**Sefy**](https://apps.apple.com/gb/app/sefy/id1596826300)
+### <span style="color:blue; text-decoration: underline;">[**Sefy**](https://apps.apple.com/gb/app/sefy/id1596826300)</span>
 *Sefy LTD* <span style="color:green">*(Aug 2022 - Present)*</span>
 
 * Increased the efficiency of data aggregation **by 1000%** by automating it with **Python Scripts** on AWS EC2 Crontab.
 * Improved the inefficiency of Many-to-many relationships in **DynamoDB** by tuning the structure and customising the **GraphQL** resolvers.
-* Accomplished Separation of Concerns by not only managing the global states with **React Context** but also using **Custom Hook**s when developing an Admin Dashboard with React, which boosted the performance of collaboration as well as [**React Web App**](https://undertone.sefy.io/).
+* Accomplished Separation of Concerns by not only managing the global states with **React Context** but also using **Custom Hook**s when developing an Admin Dashboard with React, which boosted the performance of collaboration as well as <span style="color:blue; text-decoration: underline;">[**React Web App**](https://undertone.sefy.io/)</span>.
 
-### [**Themeparkers**](https://play.google.com/store/apps/details?id=com.kgeun.themeparkers) 
+### <span style="color:blue; text-decoration: underline;">[**Themeparkers**](https://play.google.com/store/apps/details?id=com.kgeun.themeparkers)</span>
 *Joy Crafters* <span style="color:green">*(Mar 2022 - Present)*</span>
 
 * Designed and implemented the architecture of the Back End of a mobile application. Developed Client API and Batch Server using **Django REST Framework**.
